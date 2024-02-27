@@ -1,0 +1,14 @@
+# rav_retail-user 11 RPJS31.Q4U-47-35-17 4bff0 release-keys
+- manufacturer: motorola
+- platform: trinket
+- codename: rav
+- flavor: rav_retail-user
+- release: 11
+- id: RPJS31.Q4U-47-35-17
+- incremental: 4bff0
+- tags: release-keys
+- fingerprint: motorola/rav_retail/rav:11/RPJS31.Q4U-47-35-17/4bff0:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: rav_retail-user-11-RPJS31.Q4U-47-35-17-4bff0-release-keys
+- repo: motorola_rav_dump
